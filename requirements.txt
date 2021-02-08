@@ -106,6 +106,5 @@ cvlib==0.2.6
 torch
 torchvision
 scikit-image
-Keras-Applications==1.0.8
-data-utils==0.0.7  
+Keras-Applications==1.0.8 
 keras-utils==1.0.13
