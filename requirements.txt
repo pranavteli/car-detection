@@ -105,9 +105,8 @@ zipp==3.1.0
 cvlib==0.2.6 
 torch
 torchvision
-skimage
+scikit-image
 time
-PIL
 Keras-Applications==1.0.8
 data-utils==0.0.7  
 math
